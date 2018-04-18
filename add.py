@@ -1,4 +1,3 @@
-a = raw_input("Enter the first number: ")
-b = raw_input("Enter the second number: ")
-c = (a+b)
-print "The sum of the given numbers is ", c
+a = input("Enter the first number: ")
+b = input("Enter the second number: ")
+print "The sum of the given numbers is", a+b
