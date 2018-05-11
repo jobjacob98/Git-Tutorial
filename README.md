@@ -1,5 +1,5 @@
 # Git-Tutorial
-A 3 hour workshop on git conducted at FISAT on 18-04-2018. Workshop conducted by Yedhu Krishnan, batch of 2009-13 CSE, FISAT.
+A 3 hour workshop on git conducted in FISAT on 18-04-2018. Workshop conducted by Yedhu Krishnan, batch of 2009-13 CSE, FISAT.
 
 Basic git commands
 
